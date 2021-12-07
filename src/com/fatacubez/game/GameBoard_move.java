@@ -3,7 +3,7 @@ package com.fatacubez.game;
 import java.awt.*;
 import java.awt.event.KeyEvent;
 
-public interface GameBoardmove {
+public interface GameBoard_move {
     void render(Graphics2D g);
 
     void update();
